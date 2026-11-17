@@ -6,7 +6,7 @@
 - Tài khoản GitHub: xuanlam13072004
 - Repo bài nộp (URL): https://github.com/xuanlam13072004/K5-L2B-NguyenXuanLam-2A202604051-Day08-AI-Assisted-Labeling
 - Commit chốt bài (hash): <<>>
-- Máy: Windows, không có GPU (chạy CPU, torch 2.15.0+cpu)
+- Máy: Windows, NVIDIA GeForce RTX 3050 Laptop GPU (CUDA 12.8, torch 2.11.0+cu128)
 - CVAT (Docker): v2.81.0
 
 ## Kết quả tóm tắt (điền cuối bài; số lấy từ `submission/qc/*`, kèm mẫu số)
