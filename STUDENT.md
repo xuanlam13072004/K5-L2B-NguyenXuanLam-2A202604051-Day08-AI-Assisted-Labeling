@@ -1,13 +1,13 @@
 # Thông tin học viên
 
-- Họ và tên: <<>>
-- MSHV: <<>>
-- Lớp (L2 / L3 / khác): <<>>
-- Tài khoản GitHub: <<>>
-- Repo bài nộp (URL): <<>>
+- Họ và tên: Nguyễn Xuân Lam
+- MSHV: 2A202604051
+- Lớp (L2 / L3 / khác): L2B
+- Tài khoản GitHub: xuanlam13072004
+- Repo bài nộp (URL): https://github.com/xuanlam13072004/K5-L2B-NguyenXuanLam-2A202604051-Day08-AI-Assisted-Labeling
 - Commit chốt bài (hash): <<>>
-- Máy: <<hệ điều hành, GPU (CUDA / MPS / không có)>>
-- CVAT (Docker): <<phiên bản, ví dụ v2.81.0>>
+- Máy: Windows, không có GPU (chạy CPU, torch 2.15.0+cpu)
+- CVAT (Docker): v2.81.0
 
 ## Kết quả tóm tắt (điền cuối bài; số lấy từ `submission/qc/*`, kèm mẫu số)
 
