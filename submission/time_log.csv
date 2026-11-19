@@ -1,2 +1,3 @@
 step,images,minutes,note
 gold_manual,4,15,gan tay 4 anh gold trong CVAT
+batch_review,24,20,duyet 24 anh batch co pre-label trong CVAT
