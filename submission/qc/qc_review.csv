@@ -1,0 +1,4 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,,bo_sot,2A202604051,"person nhỏ bên trái (box gốc ~58,199,18x33) bị bỏ sót: bẫy missing lọt khi duyệt; nhìn ảnh QC không thấy vì chỉ có box đã gán, phát hiện khi đối chiếu traps_key"
+img_006.jpg,,khong,2A202604051,
+img_031.jpg,,khong,2A202604051,
